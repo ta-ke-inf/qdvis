@@ -1,5 +1,8 @@
 # qdvis (Quick Data Visualizer)
 This is a tool to easily visualize the logs when long time processing is required by simply starting up a local server.
+
+<img width="1680" alt="スクリーンショット 2024-01-20 14 41 22" src="https://github.com/ta-ke-inf/qdvis/assets/115391575/5bda04b5-da97-449e-b3c0-508cd9749ffd">
+
 ## Installation
 ```
 pip install qdvis

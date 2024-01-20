@@ -18,7 +18,7 @@ setup(
     url="https://github.com/ta-ke-inf/qdvis/tree/main",
     download_url="https://github.com/ta-ke-inf/qdvis/tree/main",
     license="MIT",
-    version="0.1.1",
+    version="0.1.2",
     keywords="visualization ml",
     long_description=LONG_DESCRIPTION,
     long_description_content_type='text/markdown',
